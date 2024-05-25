@@ -1,0 +1,6 @@
+feeds:
+  boa_data:
+    type: pandas.CSVDataSet
+    filepath: task3\data\01_raw\Boa_data.csv
+    load_args:
+      sep: ","
